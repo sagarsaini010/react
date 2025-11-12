@@ -1,0 +1,33 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  font-family: Arial, sans-serif;
+color: white;
+  background-color: #222;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #333;
+  color: white;
+}
+
+nav div{
+  display: flex;
+  gap: 1.5rem;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}

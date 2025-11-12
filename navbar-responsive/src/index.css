@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+@media (max-width: 640px) {
+  .right-child {
+    display: none;
+  }
+}
+@media (min-width: 640px) {
+  .right-icon {
+    display: none;
+  }
+}
+
