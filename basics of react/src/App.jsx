@@ -1,4 +1,3 @@
-
 import Navbar from "./assets/components/Navbar"
 
 const Comp = ({name}) =>{
